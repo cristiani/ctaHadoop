@@ -1,2 +1,2 @@
 # ctaHadoop
-Clinial Trials parsed via Hadoop.
+Clinical Trials parsed via Hadoop.
